@@ -2,10 +2,15 @@
 
 # Langkah Instalasi
 1. Clone Repositori Git
+   
    ```git clone https://github.com/christ241/Credit-Card-Approval-Prediction.git```
+   
 2. Navigasi ke direktori Proyek
+   
    ```cd Credit-Card-Approval-Prediction```
+
 3. Install requirement.txt yang berada di folder deployment
+   
    ```pip install requiremnts.txt```
 
 # Penggunaan
